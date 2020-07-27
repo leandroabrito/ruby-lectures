@@ -9,6 +9,7 @@ p number.to_s.class # string
 p number.to_f.class # float
 
 pi = 3.14
+p pi.class # float
 p pi.to_i.class # integer
 p pi.to_s.class # string
 
